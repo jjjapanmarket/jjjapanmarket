@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 jjjapanmarket
+# 👋 Hey, I'm JJ — Nice to see you!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Developer+in+Training+🚀;Aiming+for+In-House+Development💻;Coding+Every+Day👨‍💻" alt="Typing SVG" />
 
