@@ -26,11 +26,18 @@
 
 <div align="center">
 
-### Main Focus
+### Learning
 <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
 
-### Also Used
-<img src="https://skillicons.dev/icons?i=ts,git,github,vscode,idea&theme=dark" />
+### Used
+<img src="https://skillicons.dev/icons?i=ts,github,idea&theme=dark" />
+
+</div>
+
+### Tools
+- Cursor
+- Git (currently learning)
+
 
 </div>
 
