@@ -55,13 +55,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jjjapanmarket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjapanmarket&layout=compact&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jjjapanmarket&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjapanmarket&layout=compact&theme=tokyonight" />
+
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=jjjapanmarket&theme=tokyonight&border_radius=8" />
+
+<img height="170em" src="https://streak-stats.demolab.com/?user=jjjapanmarket&theme=tokyonight&border_radius=8" />
+
 </div>
+
 
 ---
 
