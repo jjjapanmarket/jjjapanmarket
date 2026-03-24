@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm JJ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer+in+Training+%F0%9F%9A%80;Aiming+for+In-House+Development+%F0%9F%92%BB;Learning+Java+and+Spring+Boot+Every+Day+%F0%9F%91%A8%F0%9F%92%BB;Step+by+Step%2C+Building+My+Career+in+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer+in+Training+%F0%9F%9A%80;Currently+learning+Java+and+Spring+Boot+%F0%9F%92%BB;Also+building+with+TypeScript+%E2%9C%A8;Aiming+for+In-House+Development" alt="Typing SVG" />
 
 </div>
 
@@ -14,18 +14,23 @@
 
 - 🏢 **Current**: 1st Year at Prime-listed Company  
 - 🎯 **Goal**: In-House Software Engineer  
-- 💻 **Learning**: Java / Spring Boot / SQL  
+- 💻 **Currently Learning**: Java / Spring Boot / SQL  
+- 🧩 **Also Used**: TypeScript  
 - 📜 **Target**: Java Silver Certification  
 - 📍 **Location**: Japan  
 - 📅 **Started**: March 2026  
 
-<br>
-
-<div align="center">
+---
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,maven,postman&theme=dark" />
+<div align="center">
+
+### Main Focus
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+
+### Also Used
+<img src="https://skillicons.dev/icons?i=ts,git,github,vscode,idea&theme=dark" />
 
 </div>
 
@@ -35,50 +40,31 @@
 
 - Javaの基礎文法の定着
 - Spring Bootを使ったWebアプリ開発
-- SQL・データベース設計の理解
-- ポートフォリオとして公開できる成果物作成
+- SQL・データベースの理解
+- 学習内容をGitHubに継続して残すこと
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jjjapanmarket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjapanmarket&layout=compact&theme=tokyonight" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jjjapanmarket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjapanmarket&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=jjjapanmarket&theme=tokyonight&border_radius=8" />
-
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=jjjapanmarket&theme=tokyonight&border_radius=8" />
 </div>
 
 ---
 
-## 🌱 My Vision
+## My Direction
 
-I’m working toward becoming an engineer who can  
-build reliable systems, keep learning continuously,  
-and contribute to business growth through technology.
+I will keep studying every day to become an engineer who surpasses Gon at his peak.
 
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/jjjapanmarket">
-  <img src="https://img.shields.io/badge/GitHub-jjjapanmarket-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
 </div>
