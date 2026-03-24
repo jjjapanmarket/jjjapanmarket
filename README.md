@@ -26,13 +26,11 @@
 📊 GitHub Stats & Streak
 <div align="center">
 
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djjjapanmarket%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djjjapanmarket%26layout%3Dcompact%26theme%3Dradical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3Djjjapanmarket%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djjjapanmarket%26layout%3Dcompact%26theme%3Dradical" />
 
 
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djjjapanmarket%26theme%3Dradical" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.app/%3Fuser%3Djjjapanmarket%26theme%3Dradical" alt="GitHub Streak" />
 
 
 ⭐ Thanks for visiting my profile!
