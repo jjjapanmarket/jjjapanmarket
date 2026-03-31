@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,maven&theme=dark" />
 
 ### Learning
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
