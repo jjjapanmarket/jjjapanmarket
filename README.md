@@ -12,10 +12,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏢 **Current**: 1st Year at Prime-listed Company  
+- 🏢 **Current**: 1st Year at a Prime-listed Company  
 - 🎯 **Goal**: In-House Software Engineer  
 - 💻 **Currently Learning**: Java / Spring Boot  
 - 📜 **Target**: Java Silver Certification  
+- 🏫 **42 Tokyo**: Passed the first screening, planning to take the second-stage Piscine in July  
+- 🤖 **AI Agent I Use**: Genspark  
 - 📍 **Location**: Japan  
 - 📅 **Started**: March 2026  
 
