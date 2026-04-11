@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=JJ's%20GitHub%20Profile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# 👋 Hey, I'm JJ
+# 👋 Hey, I'm JJJ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer+in+Training+%F0%9F%9A%80;Currently+learning+Java+and+Spring+Boot+%F0%9F%92%BB;Aiming+for+In-House+Development" alt="Typing SVG" />
 
