@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+  <rect width="1000" height="120" fill="#17191D"/>
+
+  <!-- stars (twinkling) -->
+  <g fill="#FFFFFF">
+    <circle cx="70" cy="40" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="80" r="1.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="30" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="90" r="1.0"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="50" r="1.3"><animate attributeName="opacity" values="1;0.4;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="85" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="35" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="75" r="1.0"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="45" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="90" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="30" r="1.3"><animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- shooting star -->
+  <g>
+    <line x1="0" y1="0" x2="26" y2="10" stroke="#9BA1A6" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 950,15 L 620,95"/>
+  </g>
+
+  <text x="500" y="72" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#9BA1A6" opacity="0.85">Thanks for visiting ✨ Keep learning, keep launching 🚀</text>
+</svg>
