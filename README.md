@@ -15,10 +15,19 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github&theme=dark" />
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&theme=dark" />
+<br />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
 
 ### Experienced
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,idea,obsidian&theme=dark" />
+<br />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 
 ---
 
@@ -26,6 +35,7 @@
 
 - Building Android apps with **Kotlin & Jetpack Compose**
 - **[PingPort](https://github.com/jjjapanmarket/PingPort)** — a personal app connecting table tennis players with overseas clubs *(work in progress)*
+- **[DiceRoller](https://github.com/jjjapanmarket/DiceRoller)** — learning Compose state management through the Android Basics codelab
 - Improving code reading skills through real-world development
 
 ---
