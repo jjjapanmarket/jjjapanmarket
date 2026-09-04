@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/space-header.svg" alt="Hi, I'm JJJ — Android Developer" width="100%" />
+  <img src="./assets/space-header.svg" alt="Hi, I'm J — Android Developer" width="100%" />
 </div>
 
 ---
