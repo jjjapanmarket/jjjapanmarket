@@ -92,7 +92,7 @@
     </g>
 
     <!-- title -->
-    <text x="500" y="115" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF">Hi, I'm JJJ</text>
+    <text x="500" y="115" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF">Hi, I'm J</text>
     <text x="500" y="158" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#9BA1A6">Android Developer &#160;|&#160; Kotlin · Jetpack Compose</text>
   </g>
 </svg>
